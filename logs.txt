@@ -25,3 +25,17 @@ Running iter  10  of  10000
 Median batch loss @  0.623216450214
 Running iter  11  of  10000
 Median batch loss @  0.624939471483
+Running iter  12  of  10000
+Median batch loss @  0.624806851149
+Running iter  13  of  10000
+Median batch loss @  0.624983131886
+Running iter  14  of  10000
+Median batch loss @  0.624928325415
+Running iter  15  of  10000
+Median batch loss @  0.624649941921
+Running iter  16  of  10000
+Median batch loss @  0.624273777008
+Running iter  17  of  10000
+Median batch loss @  0.623633831739
+Running iter  18  of  10000
+Median batch loss @  0.620531260967
