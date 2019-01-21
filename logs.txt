@@ -1,0 +1,27 @@
+Running iter  0  of  10000
+Median batch loss @  0.417946860194
+saved
+Running iter  1  of  10000
+Median batch loss @  0.446573495865
+Running iter  2  of  10000
+Median batch loss @  0.617747306824
+Running iter  3  of  10000
+Median batch loss @  0.441607549787
+Running iter  4  of  10000
+Median batch loss @  0.30865727365
+saved
+Running iter  5  of  10000
+Median batch loss @  0.623460054398
+Running iter  6  of  10000
+Median batch loss @  0.624527186155
+Running iter  7  of  10000
+Median batch loss @  0.624766737223
+Running iter  8  of  10000
+Median batch loss @  0.298205807805
+saved
+Running iter  9  of  10000
+Median batch loss @  0.62439891696
+Running iter  10  of  10000
+Median batch loss @  0.623216450214
+Running iter  11  of  10000
+Median batch loss @  0.624939471483
