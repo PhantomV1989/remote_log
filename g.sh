@@ -1,0 +1,1 @@
+git add -A && git commit -m 'log' && git push log
