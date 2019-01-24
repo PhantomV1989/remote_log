@@ -2288,3 +2288,1415 @@ Num of wrong pred:  23 of  60   Max loss @ 0.877964615822  Label: 1
 Running iter  132  of  1000
 Num of wrong pred:  27 of  60   Max loss @ 0.997012078762  Label: 1
 Running iter  133  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.980150818825  Label: 1
+Running iter  134  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.900127768517  Label: 1
+Running iter  135  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.880664110184  Label: 1
+Running iter  136  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.01009249687  Label: 1
+Running iter  137  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.993894934654  Label: 1
+Running iter  138  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 1.0773332119  Label: 1
+Running iter  139  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.983617186546  Label: 1
+Running iter  140  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.00378155708  Label: 1
+Running iter  141  of  1000
+Num of wrong pred:  17 of  60   Max loss @ 0.814226269722  Label: 1
+saved
+Running iter  142  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.848357319832  Label: 1
+Running iter  143  of  1000
+Num of wrong pred:  17 of  60   Max loss @ 1.19320964813  Label: 1
+saved
+Running iter  144  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.9787093997  Label: 1
+Running iter  145  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.0092113018  Label: 1
+Running iter  146  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.00581789017  Label: 1
+Running iter  147  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 1.09862649441  Label: 1
+Running iter  148  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.19844794273  Label: 1
+Running iter  149  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.932871997356  Label: 1
+Running iter  150  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.904717862606  Label: 1
+Running iter  151  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.991914987564  Label: 1
+Running iter  152  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 1.01804685593  Label: 1
+Running iter  153  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.08453392982  Label: 1
+Running iter  154  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 1.07225000858  Label: 1
+Running iter  155  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.931117296219  Label: 1
+Running iter  156  of  1000
+Num of wrong pred:  34 of  60   Max loss @ 0.907708764076  Label: 1
+Running iter  157  of  1000
+Num of wrong pred:  17 of  60   Max loss @ 1.08010101318  Label: 1
+saved
+Running iter  158  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.982806801796  Label: 1
+Running iter  159  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 1.00356507301  Label: 1
+Running iter  160  of  1000
+Num of wrong pred:  18 of  60   Max loss @ 1.06362652779  Label: 1
+saved
+Running iter  161  of  1000
+Num of wrong pred:  18 of  60   Max loss @ 0.866484642029  Label: 1
+saved
+Running iter  162  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 1.12172102928  Label: 1
+Running iter  163  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.938445925713  Label: 1
+Running iter  164  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 1.31826233864  Label: 1
+Running iter  165  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.19224429131  Label: 1
+Running iter  166  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.953667521477  Label: 1
+Running iter  167  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 1.02947974205  Label: 1
+Running iter  168  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 1.07536530495  Label: 1
+Running iter  169  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.01851987839  Label: 1
+Running iter  170  of  1000
+Num of wrong pred:  34 of  60   Max loss @ 1.00990128517  Label: 1
+Running iter  171  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.934588015079  Label: 1
+Running iter  172  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.892331182957  Label: 1
+Running iter  173  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 1.14046239853  Label: 1
+Running iter  174  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.12190020084  Label: 1
+Running iter  175  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.01118719578  Label: 1
+Running iter  176  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.19533705711  Label: 1
+Running iter  177  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.0064227581  Label: 1
+Running iter  178  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.841417551041  Label: 1
+Running iter  179  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 1.32493114471  Label: 1
+Running iter  180  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.01170349121  Label: 1
+Running iter  181  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 1.13438796997  Label: 1
+Running iter  182  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.13317787647  Label: 1
+Running iter  183  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 1.06366431713  Label: 1
+Running iter  184  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 1.13099336624  Label: 1
+Running iter  185  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.21286725998  Label: 1
+Running iter  186  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.998768091202  Label: 1
+Running iter  187  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.19019258022  Label: 1
+Running iter  188  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 1.13987720013  Label: 1
+Running iter  189  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.940586805344  Label: 1
+Running iter  190  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 1.14325022697  Label: 1
+Running iter  191  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.991317868233  Label: 1
+Running iter  192  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.919325530529  Label: 1
+Running iter  193  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.949001789093  Label: 1
+Running iter  194  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.19706189632  Label: 1
+Running iter  195  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.900451779366  Label: 1
+Running iter  196  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.993634879589  Label: 1
+Running iter  197  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 1.19630789757  Label: 1
+Running iter  198  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 0.993582844734  Label: 1
+Running iter  199  of  1000
+Num of wrong pred:  33 of  60   Max loss @ 0.964390397072  Label: 1
+Running iter  200  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.979522526264  Label: 1
+Running iter  201  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 1.00182700157  Label: 1
+Running iter  202  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.92492389679  Label: 1
+Running iter  203  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.898217558861  Label: 1
+Running iter  204  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.04940032959  Label: 1
+Running iter  205  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.18112897873  Label: 1
+Running iter  206  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.00592970848  Label: 1
+Running iter  207  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.94884455204  Label: 1
+Running iter  208  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.07000207901  Label: 1
+Running iter  209  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 1.07120764256  Label: 1
+Running iter  210  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.91632771492  Label: 1
+Running iter  211  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.858361959457  Label: 1
+Running iter  212  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.973101973534  Label: 1
+Running iter  213  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.13383722305  Label: 1
+Running iter  214  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.847889721394  Label: 1
+Running iter  215  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 1.06366467476  Label: 1
+Running iter  216  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 1.04454636574  Label: 1
+Running iter  217  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.891853511333  Label: 1
+Running iter  218  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.999221026897  Label: 1
+Running iter  219  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.999159872532  Label: 1
+Running iter  220  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.879901409149  Label: 1
+Running iter  221  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.935755252838  Label: 1
+Running iter  222  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 0.95381462574  Label: 1
+Running iter  223  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.10049653053  Label: 1
+Running iter  224  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.00030469894  Label: 1
+Running iter  225  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 1.18545246124  Label: 1
+Running iter  226  of  1000
+Num of wrong pred:  18 of  60   Max loss @ 1.17473912239  Label: 1
+saved
+Running iter  227  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.12769722939  Label: 1
+Running iter  228  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 1.18504428864  Label: 1
+Running iter  229  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.943849980831  Label: 1
+Running iter  230  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 1.07152175903  Label: 1
+Running iter  231  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.873776376247  Label: 1
+Running iter  232  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.12294113636  Label: 1
+Running iter  233  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.18020963669  Label: 1
+Running iter  234  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.99121594429  Label: 1
+Running iter  235  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.933974325657  Label: 1
+Running iter  236  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.888117194176  Label: 1
+Running iter  237  of  1000
+Num of wrong pred:  18 of  60   Max loss @ 0.982547521591  Label: 1
+saved
+Running iter  238  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.973800301552  Label: 1
+Running iter  239  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.877085328102  Label: 1
+Running iter  240  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.878320276737  Label: 1
+Running iter  241  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.983002007008  Label: 1
+Running iter  242  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.984957695007  Label: 1
+Running iter  243  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.895998597145  Label: 1
+Running iter  244  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.12487673759  Label: 1
+Running iter  245  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 1.1803188324  Label: 1
+Running iter  246  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.868481040001  Label: 1
+Running iter  247  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 1.02134823799  Label: 1
+Running iter  248  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.978771686554  Label: 1
+Running iter  249  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.855616152287  Label: 1
+Running iter  250  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 0.841416835785  Label: 1
+Running iter  251  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.906454861164  Label: 1
+Running iter  252  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.00508475304  Label: 1
+Running iter  253  of  1000
+Num of wrong pred:  18 of  60   Max loss @ 0.928503274918  Label: 1
+saved
+Running iter  254  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.940257310867  Label: 1
+Running iter  255  of  1000
+Num of wrong pred:  19 of  60   Max loss @ 0.977073013783  Label: 1
+saved
+Running iter  256  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.999690830708  Label: 1
+Running iter  257  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.06688094139  Label: 1
+Running iter  258  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.890221834183  Label: 1
+Running iter  259  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 1.11342215538  Label: 1
+Running iter  260  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 1.11179184914  Label: 1
+Running iter  261  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.904171228409  Label: 1
+Running iter  262  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.982975959778  Label: 1
+Running iter  263  of  1000
+Num of wrong pred:  16 of  60   Max loss @ 1.10358381271  Label: 1
+saved
+Running iter  264  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.933010101318  Label: 1
+Running iter  265  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.895269691944  Label: 1
+Running iter  266  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.920391798019  Label: 1
+Running iter  267  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 1.1152741909  Label: 1
+Running iter  268  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.889432549477  Label: 1
+Running iter  269  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.921311497688  Label: 1
+Running iter  270  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.952339828014  Label: 1
+Running iter  271  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.03888261318  Label: 1
+Running iter  272  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.03388130665  Label: 1
+Running iter  273  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 1.10166096687  Label: 1
+Running iter  274  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 1.10294866562  Label: 1
+Running iter  275  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 1.0388610363  Label: 1
+Running iter  276  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.919016838074  Label: 1
+Running iter  277  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 1.18097364902  Label: 1
+Running iter  278  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.18387782574  Label: 1
+Running iter  279  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 1.02626228333  Label: 1
+Running iter  280  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 0.917734801769  Label: 1
+Running iter  281  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.987775921822  Label: 1
+Running iter  282  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 1.1073423624  Label: 1
+Running iter  283  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.971937000751  Label: 1
+Running iter  284  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.853929877281  Label: 1
+Running iter  285  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 1.16383171082  Label: 1
+Running iter  286  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 1.04827213287  Label: 1
+Running iter  287  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.02568864822  Label: 1
+Running iter  288  of  1000
+Num of wrong pred:  17 of  60   Max loss @ 0.955654144287  Label: 1
+saved
+Running iter  289  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 0.860590934753  Label: 1
+Running iter  290  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.872310161591  Label: 1
+Running iter  291  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.901184737682  Label: 1
+Running iter  292  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.903578877449  Label: 1
+Running iter  293  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.988122105598  Label: 1
+Running iter  294  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 1.17887353897  Label: 1
+Running iter  295  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.868547201157  Label: 1
+Running iter  296  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 1.1304371357  Label: 1
+Running iter  297  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.897640228271  Label: 1
+Running iter  298  of  1000
+Num of wrong pred:  33 of  60   Max loss @ 0.897614121437  Label: 1
+Running iter  299  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 1.01457953453  Label: 1
+Running iter  300  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.850476384163  Label: 1
+Running iter  301  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.919609665871  Label: 1
+Running iter  302  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.912044763565  Label: 1
+Running iter  303  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.972060084343  Label: 1
+Running iter  304  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.876987457275  Label: 1
+Running iter  305  of  1000
+Num of wrong pred:  19 of  60   Max loss @ 0.871258974075  Label: 1
+saved
+Running iter  306  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.0149769783  Label: 1
+Running iter  307  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.930044651031  Label: 1
+Running iter  308  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.90758907795  Label: 1
+Running iter  309  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.875165581703  Label: 1
+Running iter  310  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.926299333572  Label: 1
+Running iter  311  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.03646397591  Label: 1
+Running iter  312  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.15529298782  Label: 1
+Running iter  313  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.04763245583  Label: 1
+Running iter  314  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.961732625961  Label: 1
+Running iter  315  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.990461468697  Label: 1
+Running iter  316  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.935192942619  Label: 1
+Running iter  317  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.970030665398  Label: 1
+Running iter  318  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.909558951855  Label: 1
+Running iter  319  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.9147605896  Label: 1
+Running iter  320  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.890773653984  Label: 1
+Running iter  321  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.963238298893  Label: 1
+Running iter  322  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.02389025688  Label: 1
+Running iter  323  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 1.0945725441  Label: 1
+Running iter  324  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.00214040279  Label: 1
+Running iter  325  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 1.05776059628  Label: 1
+Running iter  326  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.00707924366  Label: 1
+Running iter  327  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 1.17252039909  Label: 1
+Running iter  328  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.990939438343  Label: 1
+Running iter  329  of  1000
+Num of wrong pred:  19 of  60   Max loss @ 1.04404807091  Label: 1
+saved
+Running iter  330  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.84579616785  Label: 1
+Running iter  331  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.00170373917  Label: 1
+Running iter  332  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.955296218395  Label: 1
+Running iter  333  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.08901691437  Label: 1
+Running iter  334  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.08965802193  Label: 1
+Running iter  335  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.00233578682  Label: 1
+Running iter  336  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.860513091087  Label: 1
+Running iter  337  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.0004888773  Label: 1
+Running iter  338  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.999490737915  Label: 1
+Running iter  339  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.902314603329  Label: 1
+Running iter  340  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.00902748108  Label: 1
+Running iter  341  of  1000
+Num of wrong pred:  33 of  60   Max loss @ 0.953278541565  Label: 1
+Running iter  342  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.996054410934  Label: 1
+Running iter  343  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.983031153679  Label: 1
+Running iter  344  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 1.00181436539  Label: 1
+Running iter  345  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.959901928902  Label: 1
+Running iter  346  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.08888530731  Label: 1
+Running iter  347  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.909217119217  Label: 1
+Running iter  348  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.95488256216  Label: 1
+Running iter  349  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.980142533779  Label: 1
+Running iter  350  of  1000
+Num of wrong pred:  33 of  60   Max loss @ 1.00136518478  Label: 1
+Running iter  351  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.964202582836  Label: 1
+Running iter  352  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.04770326614  Label: 1
+Running iter  353  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.865595817566  Label: 1
+Running iter  354  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.893592953682  Label: 1
+Running iter  355  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.970694422722  Label: 1
+Running iter  356  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.879878520966  Label: 1
+Running iter  357  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 1.03986406326  Label: 1
+Running iter  358  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.877340853214  Label: 1
+Running iter  359  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.839471340179  Label: 1
+Running iter  360  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.855573534966  Label: 1
+Running iter  361  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.16009140015  Label: 1
+Running iter  362  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.905723810196  Label: 1
+Running iter  363  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.90597820282  Label: 1
+Running iter  364  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.876827120781  Label: 1
+Running iter  365  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.995509326458  Label: 1
+Running iter  366  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.872933030128  Label: 1
+Running iter  367  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.977951228619  Label: 1
+Running iter  368  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.870324015617  Label: 1
+Running iter  369  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 0.906667232513  Label: 1
+Running iter  370  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.961985468864  Label: 1
+Running iter  371  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.912769436836  Label: 1
+Running iter  372  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.803705811501  Label: 1
+saved
+Running iter  373  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.917996942997  Label: 1
+Running iter  374  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.906678676605  Label: 1
+Running iter  375  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.916590929031  Label: 1
+Running iter  376  of  1000
+Num of wrong pred:  17 of  60   Max loss @ 1.00352787971  Label: 1
+saved
+Running iter  377  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 0.835002720356  Label: 1
+Running iter  378  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 1.14793300629  Label: 1
+Running iter  379  of  1000
+Num of wrong pred:  34 of  60   Max loss @ 0.960381984711  Label: 1
+Running iter  380  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.95517385006  Label: 1
+Running iter  381  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.868944406509  Label: 1
+Running iter  382  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.982725381851  Label: 1
+Running iter  383  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 1.15056848526  Label: 1
+Running iter  384  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.973533272743  Label: 1
+Running iter  385  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.08695316315  Label: 1
+Running iter  386  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 0.946546316147  Label: 1
+Running iter  387  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.908093452454  Label: 1
+Running iter  388  of  1000
+Num of wrong pred:  17 of  60   Max loss @ 1.23535752296  Label: 1
+saved
+Running iter  389  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.831092536449  Label: 1
+Running iter  390  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.844341695309  Label: 1
+Running iter  391  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.908468782902  Label: 1
+Running iter  392  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.930299043655  Label: 1
+Running iter  393  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.0782160759  Label: 1
+Running iter  394  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.93610304594  Label: 1
+Running iter  395  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.875846087933  Label: 1
+Running iter  396  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.09059000015  Label: 1
+Running iter  397  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.855456352234  Label: 1
+Running iter  398  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 1.01239526272  Label: 1
+Running iter  399  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.90505117178  Label: 1
+Running iter  400  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.900509119034  Label: 1
+Running iter  401  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.96904873848  Label: 1
+Running iter  402  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.870289206505  Label: 1
+Running iter  403  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.911447048187  Label: 1
+Running iter  404  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.96304911375  Label: 1
+Running iter  405  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.900230526924  Label: 1
+Running iter  406  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 1.07639729977  Label: 1
+Running iter  407  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 1.0069693327  Label: 1
+Running iter  408  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.969329535961  Label: 1
+Running iter  409  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.821896910667  Label: 1
+Running iter  410  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.821919262409  Label: 1
+Running iter  411  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.07743811607  Label: 1
+Running iter  412  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.851184129715  Label: 1
+Running iter  413  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.902896344662  Label: 1
+Running iter  414  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.950736761093  Label: 1
+Running iter  415  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.891060709953  Label: 1
+Running iter  416  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.902772784233  Label: 1
+Running iter  417  of  1000
+Num of wrong pred:  33 of  60   Max loss @ 0.922542095184  Label: 1
+Running iter  418  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.853036403656  Label: 1
+Running iter  419  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.852961599827  Label: 1
+Running iter  420  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.89329624176  Label: 1
+Running iter  421  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.926846146584  Label: 1
+Running iter  422  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.865948557854  Label: 1
+Running iter  423  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.867697954178  Label: 1
+Running iter  424  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 1.00786352158  Label: 1
+Running iter  425  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.976266980171  Label: 1
+Running iter  426  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.999444782734  Label: 1
+Running iter  427  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 1.07423973083  Label: 1
+Running iter  428  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 1.08076882362  Label: 1
+Running iter  429  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.924488663673  Label: 1
+Running iter  430  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.889753818512  Label: 1
+Running iter  431  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.894496321678  Label: 1
+Running iter  432  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.894008338451  Label: 1
+Running iter  433  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 0.98613679409  Label: 1
+Running iter  434  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.991381049156  Label: 1
+Running iter  435  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 1.06847119331  Label: 1
+Running iter  436  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.06858050823  Label: 1
+Running iter  437  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.872219562531  Label: 1
+Running iter  438  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.951093912125  Label: 1
+Running iter  439  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.865685999393  Label: 1
+Running iter  440  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.893144249916  Label: 1
+Running iter  441  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.985376656055  Label: 1
+Running iter  442  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 1.13859057426  Label: 1
+Running iter  443  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.866319656372  Label: 1
+Running iter  444  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 1.1125048399  Label: 1
+Running iter  445  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.840250015259  Label: 1
+Running iter  446  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 1.12381219864  Label: 1
+Running iter  447  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.860796451569  Label: 1
+Running iter  448  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.870196580887  Label: 1
+Running iter  449  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.946765780449  Label: 1
+Running iter  450  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.949457883835  Label: 1
+Running iter  451  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.98219370842  Label: 1
+Running iter  452  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.88144338131  Label: 1
+Running iter  453  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.930483818054  Label: 1
+Running iter  454  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.1382124424  Label: 1
+Running iter  455  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.07112646103  Label: 1
+Running iter  456  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.884249687195  Label: 1
+Running iter  457  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 1.06173992157  Label: 1
+Running iter  458  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.917775154114  Label: 1
+Running iter  459  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.13168358803  Label: 1
+Running iter  460  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.981169879436  Label: 1
+Running iter  461  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.12108850479  Label: 1
+Running iter  462  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.943183243275  Label: 1
+Running iter  463  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.853140115738  Label: 1
+Running iter  464  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.890341043472  Label: 1
+Running iter  465  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.807217359543  Label: 1
+Running iter  466  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.876977443695  Label: 1
+Running iter  467  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.888039112091  Label: 1
+Running iter  468  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.927274942398  Label: 1
+Running iter  469  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.8319221735  Label: 1
+Running iter  470  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.958351969719  Label: 1
+Running iter  471  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.12981402874  Label: 1
+Running iter  472  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.856163680553  Label: 1
+Running iter  473  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.781542539597  Label: 1
+saved
+Running iter  474  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 1.07850027084  Label: 1
+Running iter  475  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.885767757893  Label: 1
+Running iter  476  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.06411218643  Label: 1
+Running iter  477  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.13290417194  Label: 1
+Running iter  478  of  1000
+Num of wrong pred:  34 of  60   Max loss @ 0.98099052906  Label: 1
+Running iter  479  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.07242536545  Label: 1
+Running iter  480  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.887872099876  Label: 1
+Running iter  481  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.971444547176  Label: 1
+Running iter  482  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.934828281403  Label: 1
+Running iter  483  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.941684365273  Label: 1
+Running iter  484  of  1000
+Num of wrong pred:  34 of  60   Max loss @ 0.893661379814  Label: 1
+Running iter  485  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.07038128376  Label: 1
+Running iter  486  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.934655964375  Label: 1
+Running iter  487  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 0.863284289837  Label: 1
+Running iter  488  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.889073550701  Label: 1
+Running iter  489  of  1000
+Num of wrong pred:  38 of  60   Max loss @ 1.13351047039  Label: 1
+Running iter  490  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.837302684784  Label: 1
+Running iter  491  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.904871344566  Label: 1
+Running iter  492  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.876914620399  Label: 1
+Running iter  493  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.892624080181  Label: 1
+Running iter  494  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.907360076904  Label: 1
+Running iter  495  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.953478693962  Label: 1
+Running iter  496  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.88568007946  Label: 1
+Running iter  497  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.96235537529  Label: 1
+Running iter  498  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.920159101486  Label: 1
+Running iter  499  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.95052087307  Label: 1
+Running iter  500  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 1.1270506382  Label: 1
+Running iter  501  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.967687547207  Label: 1
+Running iter  502  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.874559700489  Label: 1
+Running iter  503  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.973438024521  Label: 1
+Running iter  504  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.986892402172  Label: 1
+Running iter  505  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.988633155823  Label: 1
+Running iter  506  of  1000
+Num of wrong pred:  33 of  60   Max loss @ 1.12165546417  Label: 1
+Running iter  507  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.05483722687  Label: 1
+Running iter  508  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.855961799622  Label: 1
+Running iter  509  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 1.0509827137  Label: 1
+Running iter  510  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 0.892853319645  Label: 1
+Running iter  511  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 0.968410432339  Label: 1
+Running iter  512  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 1.05688810349  Label: 1
+Running iter  513  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 1.0294611454  Label: 1
+Running iter  514  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.86771684885  Label: 1
+Running iter  515  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.932087898254  Label: 1
+Running iter  516  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.935272932053  Label: 1
+Running iter  517  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.941844701767  Label: 1
+Running iter  518  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.937207221985  Label: 1
+Running iter  519  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.96962428093  Label: 1
+Running iter  520  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.941580474377  Label: 1
+Running iter  521  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.891375541687  Label: 1
+Running iter  522  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.05419933796  Label: 1
+Running iter  523  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.844139456749  Label: 1
+Running iter  524  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.979626178741  Label: 1
+Running iter  525  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.896733045578  Label: 1
+Running iter  526  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.852492630482  Label: 1
+Running iter  527  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.8576207757  Label: 1
+Running iter  528  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.940545558929  Label: 1
+Running iter  529  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.798297643661  Label: 1
+Running iter  530  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.866192221642  Label: 1
+Running iter  531  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.04940366745  Label: 1
+Running iter  532  of  1000
+Num of wrong pred:  36 of  60   Max loss @ 0.880443453789  Label: 1
+Running iter  533  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.879447698593  Label: 1
+Running iter  534  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.972033023834  Label: 1
+Running iter  535  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.876678228378  Label: 1
+Running iter  536  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.10793542862  Label: 1
+Running iter  537  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.941550135612  Label: 1
+Running iter  538  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.91728079319  Label: 1
+Running iter  539  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 1.11323392391  Label: 1
+Running iter  540  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.937453329563  Label: 1
+Running iter  541  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.8752617836  Label: 1
+Running iter  542  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.809325933456  Label: 1
+Running iter  543  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.847101330757  Label: 1
+Running iter  544  of  1000
+Num of wrong pred:  34 of  60   Max loss @ 1.04275465012  Label: 1
+Running iter  545  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.953622877598  Label: 1
+Running iter  546  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.938766896725  Label: 1
+Running iter  547  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.935295522213  Label: 1
+Running iter  548  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.834196448326  Label: 1
+Running iter  549  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.938354969025  Label: 1
+Running iter  550  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.04302072525  Label: 1
+Running iter  551  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.933414578438  Label: 1
+Running iter  552  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 1.11283636093  Label: 1
+Running iter  553  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 0.966799080372  Label: 1
+Running iter  554  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.933616518974  Label: 1
+Running iter  555  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.84223985672  Label: 1
+Running iter  556  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 1.11408984661  Label: 1
+Running iter  557  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.872016966343  Label: 1
+Running iter  558  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.04453206062  Label: 1
+Running iter  559  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.876659870148  Label: 1
+Running iter  560  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.962799608707  Label: 1
+Running iter  561  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.01380944252  Label: 1
+Running iter  562  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.852872848511  Label: 1
+Running iter  563  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.918829917908  Label: 1
+Running iter  564  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.890951275826  Label: 1
+Running iter  565  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.90098965168  Label: 1
+Running iter  566  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.873199880123  Label: 1
+Running iter  567  of  1000
+Num of wrong pred:  18 of  60   Max loss @ 0.997344255447  Label: 1
+saved
+Running iter  568  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.872333228588  Label: 1
+Running iter  569  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.0382874012  Label: 1
+Running iter  570  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.10527253151  Label: 1
+Running iter  571  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.867486834526  Label: 1
+Running iter  572  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 0.880790948868  Label: 1
+Running iter  573  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.19951915741  Label: 1
+Running iter  574  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.875390946865  Label: 1
+Running iter  575  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 1.03865408897  Label: 1
+Running iter  576  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.879682719707  Label: 1
+Running iter  577  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.10445702076  Label: 1
+Running iter  578  of  1000
+Num of wrong pred:  34 of  60   Max loss @ 0.894801557064  Label: 1
+Running iter  579  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.936426103115  Label: 1
+Running iter  580  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.857755362988  Label: 1
+Running iter  581  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.854584932327  Label: 1
+Running iter  582  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.936958789825  Label: 1
+Running iter  583  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.10245704651  Label: 1
+Running iter  584  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 1.05138516426  Label: 1
+Running iter  585  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.943576455116  Label: 1
+Running iter  586  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.0024600029  Label: 1
+Running iter  587  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.915860533714  Label: 1
+Running iter  588  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.869562029839  Label: 1
+Running iter  589  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.03383731842  Label: 1
+Running iter  590  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.924453437328  Label: 1
+Running iter  591  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 1.11180281639  Label: 1
+Running iter  592  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.883195519447  Label: 1
+Running iter  593  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.859905600548  Label: 1
+Running iter  594  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.927188634872  Label: 1
+Running iter  595  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.03997588158  Label: 1
+Running iter  596  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.929705858231  Label: 1
+Running iter  597  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.845165491104  Label: 1
+Running iter  598  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.844412446022  Label: 1
+Running iter  599  of  1000
+Num of wrong pred:  33 of  60   Max loss @ 1.0219502449  Label: 1
+Running iter  600  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.841979503632  Label: 1
+Running iter  601  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.848930418491  Label: 1
+Running iter  602  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.858931481838  Label: 1
+Running iter  603  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 1.10810017586  Label: 1
+Running iter  604  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.956573426723  Label: 1
+Running iter  605  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.901214838028  Label: 1
+Running iter  606  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.874971747398  Label: 1
+Running iter  607  of  1000
+Num of wrong pred:  33 of  60   Max loss @ 0.923852205276  Label: 1
+Running iter  608  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.864431858063  Label: 1
+Running iter  609  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 0.918390631676  Label: 1
+Running iter  610  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.964515328407  Label: 1
+Running iter  611  of  1000
+Num of wrong pred:  34 of  60   Max loss @ 0.85796546936  Label: 1
+Running iter  612  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.857388496399  Label: 1
+Running iter  613  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.10955917835  Label: 1
+Running iter  614  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.01634025574  Label: 1
+Running iter  615  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.931233167648  Label: 1
+Running iter  616  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.884407162666  Label: 1
+Running iter  617  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.906461417675  Label: 1
+Running iter  618  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.845479607582  Label: 1
+Running iter  619  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 0.872696280479  Label: 1
+Running iter  620  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 1.09280085564  Label: 1
+Running iter  621  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.875580430031  Label: 1
+Running iter  622  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 1.04034733772  Label: 1
+Running iter  623  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.877201020718  Label: 1
+Running iter  624  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.952984631062  Label: 1
+Running iter  625  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.06688582897  Label: 1
+Running iter  626  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.803459346294  Label: 1
+Running iter  627  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.937383651733  Label: 1
+Running iter  628  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.843485414982  Label: 1
+Running iter  629  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.02814984322  Label: 1
+Running iter  630  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.81425100565  Label: 1
+Running iter  631  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.923773348331  Label: 1
+Running iter  632  of  1000
+Num of wrong pred:  33 of  60   Max loss @ 1.22066736221  Label: 1
+Running iter  633  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.782135128975  Label: 1
+Running iter  634  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.816398322582  Label: 1
+Running iter  635  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 0.923111379147  Label: 1
+Running iter  636  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.02679717541  Label: 1
+Running iter  637  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.87869822979  Label: 1
+Running iter  638  of  1000
+Num of wrong pred:  34 of  60   Max loss @ 0.866630971432  Label: 1
+Running iter  639  of  1000
+Num of wrong pred:  19 of  60   Max loss @ 0.890089094639  Label: 1
+saved
+Running iter  640  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.849797010422  Label: 1
+Running iter  641  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.810410380363  Label: 1
+Running iter  642  of  1000
+Num of wrong pred:  16 of  60   Max loss @ 0.906017661095  Label: 1
+saved
+Running iter  643  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.87930727005  Label: 1
+Running iter  644  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.859842658043  Label: 1
+Running iter  645  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.85855358839  Label: 1
+Running iter  646  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 1.07766866684  Label: 1
+Running iter  647  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 1.02901661396  Label: 1
+Running iter  648  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 0.955534875393  Label: 1
+Running iter  649  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 0.920425772667  Label: 1
+Running iter  650  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 0.97207224369  Label: 1
+Running iter  651  of  1000
+Num of wrong pred:  34 of  60   Max loss @ 0.878257989883  Label: 1
+Running iter  652  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.82868629694  Label: 1
+Running iter  653  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.840961933136  Label: 1
+Running iter  654  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.835709035397  Label: 1
+Running iter  655  of  1000
+Num of wrong pred:  35 of  60   Max loss @ 0.92082875967  Label: 1
+Running iter  656  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.919349908829  Label: 1
+Running iter  657  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 1.0309844017  Label: 1
+Running iter  658  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.848128080368  Label: 1
+Running iter  659  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.920190095901  Label: 1
+Running iter  660  of  1000
+Num of wrong pred:  33 of  60   Max loss @ 0.898550152779  Label: 1
+Running iter  661  of  1000
+Num of wrong pred:  16 of  60   Max loss @ 1.01934909821  Label: 1
+saved
+Running iter  662  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.879363417625  Label: 1
+Running iter  663  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.920973598957  Label: 1
+Running iter  664  of  1000
+Num of wrong pred:  35 of  60   Max loss @ 0.904486596584  Label: 1
+Running iter  665  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.86407315731  Label: 1
+Running iter  666  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.01047086716  Label: 1
+Running iter  667  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 0.875820815563  Label: 1
+Running iter  668  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.878170728683  Label: 1
+Running iter  669  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.83455914259  Label: 1
+Running iter  670  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.09914278984  Label: 1
+Running iter  671  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.866626024246  Label: 1
+Running iter  672  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 1.09826683998  Label: 1
+Running iter  673  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.862820267677  Label: 1
+Running iter  674  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.891790270805  Label: 1
+Running iter  675  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.905616879463  Label: 1
+Running iter  676  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.89352107048  Label: 1
+Running iter  677  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.904470920563  Label: 1
+Running iter  678  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.833572030067  Label: 1
+Running iter  679  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 1.10368585587  Label: 1
+Running iter  680  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 1.06981873512  Label: 1
+Running iter  681  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.841859221458  Label: 1
+Running iter  682  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.81949365139  Label: 1
+Running iter  683  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.908165276051  Label: 1
+Running iter  684  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.813653588295  Label: 1
+Running iter  685  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 0.941648006439  Label: 1
+Running iter  686  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.866119503975  Label: 1
+Running iter  687  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.941017568111  Label: 1
+Running iter  688  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.98540854454  Label: 1
+Running iter  689  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.932146131992  Label: 1
+Running iter  690  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.984044790268  Label: 1
+Running iter  691  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.842304289341  Label: 1
+Running iter  692  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.859100937843  Label: 1
+Running iter  693  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.886515021324  Label: 1
+Running iter  694  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.816370904446  Label: 1
+Running iter  695  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 0.849655151367  Label: 1
+Running iter  696  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 0.904610872269  Label: 1
+Running iter  697  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.02623796463  Label: 1
+Running iter  698  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.02284383774  Label: 1
+Running iter  699  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.873743712902  Label: 1
+Running iter  700  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 1.00144028664  Label: 1
+Running iter  701  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.866893053055  Label: 1
+Running iter  702  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.858143806458  Label: 1
+Running iter  703  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.878396809101  Label: 1
+Running iter  704  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.903926610947  Label: 1
+Running iter  705  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 1.09676170349  Label: 1
+Running iter  706  of  1000
+Num of wrong pred:  17 of  60   Max loss @ 0.776910483837  Label: 1
+saved
+saved
+Running iter  707  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.996735990047  Label: 1
+Running iter  708  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.85634958744  Label: 1
+Running iter  709  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 1.01971912384  Label: 1
+Running iter  710  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.891458272934  Label: 1
+Running iter  711  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.840420246124  Label: 1
+Running iter  712  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.09506297112  Label: 1
+Running iter  713  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.978760778904  Label: 1
+Running iter  714  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.940066874027  Label: 1
+Running iter  715  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.884884357452  Label: 1
+Running iter  716  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 1.00765442848  Label: 1
+Running iter  717  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.01772141457  Label: 1
+Running iter  718  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.936536848545  Label: 1
+Running iter  719  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 0.873897194862  Label: 1
+Running iter  720  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 1.01785564423  Label: 1
+Running iter  721  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.06326341629  Label: 1
+Running iter  722  of  1000
+Num of wrong pred:  33 of  60   Max loss @ 0.820078790188  Label: 1
+Running iter  723  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.92274338007  Label: 1
+Running iter  724  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.07977759838  Label: 1
+Running iter  725  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.881263315678  Label: 1
+Running iter  726  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.846939146519  Label: 1
+Running iter  727  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.785407364368  Label: 1
+Running iter  728  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 1.00837445259  Label: 1
+Running iter  729  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 1.00831127167  Label: 1
+Running iter  730  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 1.10523080826  Label: 1
+Running iter  731  of  1000
+Num of wrong pred:  37 of  60   Max loss @ 1.10290312767  Label: 1
+Running iter  732  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.911605596542  Label: 1
+Running iter  733  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 0.896851301193  Label: 1
+Running iter  734  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.868342339993  Label: 1
+Running iter  735  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.826351642609  Label: 1
+Running iter  736  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 1.00774943829  Label: 1
+Running iter  737  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.822679758072  Label: 1
+Running iter  738  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.84235727787  Label: 1
+Running iter  739  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.853766441345  Label: 1
+Running iter  740  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.81665802002  Label: 1
+Running iter  741  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.780245184898  Label: 1
+Running iter  742  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.93063300848  Label: 1
+Running iter  743  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.887618243694  Label: 1
+Running iter  744  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.942040026188  Label: 1
+Running iter  745  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.00529837608  Label: 1
+Running iter  746  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.912539482117  Label: 1
+Running iter  747  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 1.00271809101  Label: 1
+Running iter  748  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 0.907426714897  Label: 1
+Running iter  749  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.842155575752  Label: 1
+Running iter  750  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.876871824265  Label: 1
+Running iter  751  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.876793384552  Label: 1
+Running iter  752  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.873896181583  Label: 1
+Running iter  753  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.879398465157  Label: 1
+Running iter  754  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.923691987991  Label: 1
+Running iter  755  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.833500623703  Label: 1
+Running iter  756  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.900071561337  Label: 1
+Running iter  757  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.867312848568  Label: 1
+Running iter  758  of  1000
+Num of wrong pred:  33 of  60   Max loss @ 0.88863658905  Label: 1
+Running iter  759  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.924880564213  Label: 1
+Running iter  760  of  1000
+Num of wrong pred:  21 of  60   Max loss @ 0.906992077827  Label: 1
+Running iter  761  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 0.882456064224  Label: 1
+Running iter  762  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.02372837067  Label: 1
+Running iter  763  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.973376750946  Label: 1
+Running iter  764  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.863989293575  Label: 1
+Running iter  765  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.828375279903  Label: 1
+Running iter  766  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.882171928883  Label: 1
+Running iter  767  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.929998099804  Label: 1
+Running iter  768  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 1.00609815121  Label: 1
+Running iter  769  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.875227093697  Label: 1
+Running iter  770  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 1.0205193758  Label: 1
+Running iter  771  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.01009559631  Label: 1
+Running iter  772  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.903466939926  Label: 1
+Running iter  773  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.08016109467  Label: 1
+Running iter  774  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.814774632454  Label: 1
+Running iter  775  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.847097396851  Label: 1
+Running iter  776  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.09721446037  Label: 1
+Running iter  777  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.881171345711  Label: 1
+Running iter  778  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.891096949577  Label: 1
+Running iter  779  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 1.03283715248  Label: 1
+Running iter  780  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 1.04096388817  Label: 1
+Running iter  781  of  1000
+Num of wrong pred:  34 of  60   Max loss @ 0.906079232693  Label: 1
+Running iter  782  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.869147896767  Label: 1
+Running iter  783  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.834451556206  Label: 1
+Running iter  784  of  1000
+Num of wrong pred:  31 of  60   Max loss @ 0.871561169624  Label: 1
+Running iter  785  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.864897668362  Label: 1
+Running iter  786  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 1.00849962234  Label: 1
+Running iter  787  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 1.09802484512  Label: 1
+Running iter  788  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.845961749554  Label: 1
+Running iter  789  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.871651530266  Label: 1
+Running iter  790  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 1.09221124649  Label: 1
+Running iter  791  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 0.739790320396  Label: 1
+saved
+Running iter  792  of  1000
+Num of wrong pred:  36 of  60   Max loss @ 0.92804980278  Label: 1
+Running iter  793  of  1000
+Num of wrong pred:  32 of  60   Max loss @ 0.864399313927  Label: 1
+Running iter  794  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.858007609844  Label: 1
+Running iter  795  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.976905941963  Label: 1
+Running iter  796  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.927815377712  Label: 1
+Running iter  797  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.855462014675  Label: 1
+Running iter  798  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.89190351963  Label: 1
+Running iter  799  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.861320495605  Label: 1
+Running iter  800  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 0.936541378498  Label: 1
+Running iter  801  of  1000
+Num of wrong pred:  28 of  60   Max loss @ 0.886558890343  Label: 1
+Running iter  802  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.837108910084  Label: 1
+Running iter  803  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.87327003479  Label: 1
+Running iter  804  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.00586760044  Label: 1
+Running iter  805  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.0059491396  Label: 1
+Running iter  806  of  1000
+Num of wrong pred:  30 of  60   Max loss @ 1.00667262077  Label: 1
+Running iter  807  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.899139761925  Label: 1
+Running iter  808  of  1000
+Num of wrong pred:  27 of  60   Max loss @ 0.891362607479  Label: 1
+Running iter  809  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.802016496658  Label: 1
+Running iter  810  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.908861279488  Label: 1
+Running iter  811  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 1.00953722  Label: 1
+Running iter  812  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.852447628975  Label: 1
+Running iter  813  of  1000
+Num of wrong pred:  24 of  60   Max loss @ 0.842320621014  Label: 1
+Running iter  814  of  1000
+Num of wrong pred:  20 of  60   Max loss @ 0.936654508114  Label: 1
+Running iter  815  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.0073466301  Label: 1
+Running iter  816  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 0.890030622482  Label: 1
+Running iter  817  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.884121537209  Label: 1
+Running iter  818  of  1000
+Num of wrong pred:  23 of  60   Max loss @ 1.00846076012  Label: 1
+Running iter  819  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.905229449272  Label: 1
+Running iter  820  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.878363132477  Label: 1
+Running iter  821  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 1.00947904587  Label: 1
+Running iter  822  of  1000
+Num of wrong pred:  35 of  60   Max loss @ 0.925181567669  Label: 1
+Running iter  823  of  1000
+Num of wrong pred:  29 of  60   Max loss @ 0.877742946148  Label: 1
+Running iter  824  of  1000
+Num of wrong pred:  22 of  60   Max loss @ 0.894546508789  Label: 1
+Running iter  825  of  1000
+Num of wrong pred:  26 of  60   Max loss @ 0.86225861311  Label: 1
+Running iter  826  of  1000
+Num of wrong pred:  25 of  60   Max loss @ 0.889835178852  Label: 1
+Running iter  827  of  1000
