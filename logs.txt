@@ -6,3 +6,16 @@ Num of wrong pred:  60 of  60   Max loss @ 0.706679403782  Label: 0
 saved
 Running iter  2  of  1000
 Num of wrong pred:  60 of  60   Max loss @ 0.7062073946  Label: 0
+saved
+Running iter  3  of  1000
+Num of wrong pred:  60 of  60   Max loss @ 0.714789807796  Label: 0
+Running iter  4  of  1000
+Num of wrong pred:  60 of  60   Max loss @ 0.715102553368  Label: 0
+Running iter  5  of  1000
+Num of wrong pred:  60 of  60   Max loss @ 0.708030223846  Label: 0
+Running iter  6  of  1000
+Num of wrong pred:  60 of  60   Max loss @ 0.717858314514  Label: 0
+Running iter  7  of  1000
+Num of wrong pred:  60 of  60   Max loss @ 0.717749357224  Label: 0
+Running iter  8  of  1000
+Num of wrong pred:  60 of  60   Max loss @ 0.715831518173  Label: 0
